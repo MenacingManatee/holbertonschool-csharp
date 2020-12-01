@@ -1,0 +1,11 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\10-copy_cut_paste\obj\MCD\Debug\netcoreapp2.1\10-copy_cut_paste.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\10-copy_cut_paste\obj\MCD\Debug\netcoreapp2.1\10-copy_cut_paste.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\10-copy_cut_paste\obj\MCD\Debug\netcoreapp2.1\10-copy_cut_paste.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\10-copy_cut_paste\obj\MCD\Debug\netcoreapp2.1\10-copy_cut_paste.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\10-copy_cut_paste\bin\MCD\Debug\netcoreapp2.1\10-copy_cut_paste.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\10-copy_cut_paste\bin\MCD\Debug\netcoreapp2.1\10-copy_cut_paste.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\10-copy_cut_paste\bin\MCD\Debug\netcoreapp2.1\10-copy_cut_paste.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\10-copy_cut_paste\bin\MCD\Debug\netcoreapp2.1\10-copy_cut_paste.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\10-copy_cut_paste\bin\MCD\Debug\netcoreapp2.1\10-copy_cut_paste.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\10-copy_cut_paste\obj\MCD\Debug\netcoreapp2.1\10-copy_cut_paste.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\10-copy_cut_paste\obj\MCD\Debug\netcoreapp2.1\10-copy_cut_paste.pdb
