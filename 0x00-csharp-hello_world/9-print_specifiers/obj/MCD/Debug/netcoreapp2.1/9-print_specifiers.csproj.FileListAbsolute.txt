@@ -1,0 +1,11 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\bin\MCD\Debug\netcoreapp2.1\9-print_specifiers.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\bin\MCD\Debug\netcoreapp2.1\9-print_specifiers.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\bin\MCD\Debug\netcoreapp2.1\9-print_specifiers.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\bin\MCD\Debug\netcoreapp2.1\9-print_specifiers.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\bin\MCD\Debug\netcoreapp2.1\9-print_specifiers.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\obj\MCD\Debug\netcoreapp2.1\9-print_specifiers.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\obj\MCD\Debug\netcoreapp2.1\9-print_specifiers.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\obj\MCD\Debug\netcoreapp2.1\9-print_specifiers.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\obj\MCD\Debug\netcoreapp2.1\9-print_specifiers.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\obj\MCD\Debug\netcoreapp2.1\9-print_specifiers.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x00-csharp-hello_world\9-print_specifiers\obj\MCD\Debug\netcoreapp2.1\9-print_specifiers.pdb
