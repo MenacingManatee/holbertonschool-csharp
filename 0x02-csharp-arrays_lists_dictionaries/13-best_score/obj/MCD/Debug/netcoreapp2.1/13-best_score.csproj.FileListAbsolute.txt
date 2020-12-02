@@ -1,0 +1,11 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\13-best_score\bin\MCD\Debug\netcoreapp2.1\13-best_score.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\13-best_score\bin\MCD\Debug\netcoreapp2.1\13-best_score.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\13-best_score\bin\MCD\Debug\netcoreapp2.1\13-best_score.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\13-best_score\bin\MCD\Debug\netcoreapp2.1\13-best_score.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\13-best_score\bin\MCD\Debug\netcoreapp2.1\13-best_score.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\13-best_score\obj\MCD\Debug\netcoreapp2.1\13-best_score.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\13-best_score\obj\MCD\Debug\netcoreapp2.1\13-best_score.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\13-best_score\obj\MCD\Debug\netcoreapp2.1\13-best_score.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\13-best_score\obj\MCD\Debug\netcoreapp2.1\13-best_score.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\13-best_score\obj\MCD\Debug\netcoreapp2.1\13-best_score.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\13-best_score\obj\MCD\Debug\netcoreapp2.1\13-best_score.pdb
