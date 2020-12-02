@@ -1,0 +1,4 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\obj\MCD\Debug\netcoreapp2.1\4-print_list.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\obj\MCD\Debug\netcoreapp2.1\4-print_list.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\obj\MCD\Debug\netcoreapp2.1\4-print_list.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\4-print_list\obj\MCD\Debug\netcoreapp2.1\4-print_list.AssemblyInfo.cs
