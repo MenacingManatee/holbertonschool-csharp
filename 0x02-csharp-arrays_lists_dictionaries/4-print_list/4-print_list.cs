@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections;
+using System.Collections.Generic;
 
 class List
 {
@@ -10,7 +10,9 @@ class List
             Console.WriteLine("Size cannot be negative");
             return null;
         }
-        List<int> l;
+        else if (size == 0)
+            Console.Write("\n");
+        List<int> l = new List<int>();
         int i;
         string sep = " ";
         for (i = 0; i < size; i++)
