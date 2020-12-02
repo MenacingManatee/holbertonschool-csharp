@@ -1,0 +1,11 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\MCD\Debug\netcoreapp2.1\6-divisible_by_2.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\MCD\Debug\netcoreapp2.1\6-divisible_by_2.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\MCD\Debug\netcoreapp2.1\6-divisible_by_2.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\MCD\Debug\netcoreapp2.1\6-divisible_by_2.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\MCD\Debug\netcoreapp2.1\6-divisible_by_2.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\MCD\Debug\netcoreapp2.1\6-divisible_by_2.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\MCD\Debug\netcoreapp2.1\6-divisible_by_2.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\MCD\Debug\netcoreapp2.1\6-divisible_by_2.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\MCD\Debug\netcoreapp2.1\6-divisible_by_2.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\MCD\Debug\netcoreapp2.1\6-divisible_by_2.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\MCD\Debug\netcoreapp2.1\6-divisible_by_2.pdb
