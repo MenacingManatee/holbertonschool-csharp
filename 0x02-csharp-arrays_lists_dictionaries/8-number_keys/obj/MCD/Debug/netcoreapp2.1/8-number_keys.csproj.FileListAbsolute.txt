@@ -1,0 +1,11 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\MCD\Debug\netcoreapp2.1\8-number_keys.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\MCD\Debug\netcoreapp2.1\8-number_keys.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\MCD\Debug\netcoreapp2.1\8-number_keys.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\MCD\Debug\netcoreapp2.1\8-number_keys.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\bin\MCD\Debug\netcoreapp2.1\8-number_keys.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\bin\MCD\Debug\netcoreapp2.1\8-number_keys.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\bin\MCD\Debug\netcoreapp2.1\8-number_keys.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\bin\MCD\Debug\netcoreapp2.1\8-number_keys.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\bin\MCD\Debug\netcoreapp2.1\8-number_keys.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\MCD\Debug\netcoreapp2.1\8-number_keys.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\MCD\Debug\netcoreapp2.1\8-number_keys.pdb
