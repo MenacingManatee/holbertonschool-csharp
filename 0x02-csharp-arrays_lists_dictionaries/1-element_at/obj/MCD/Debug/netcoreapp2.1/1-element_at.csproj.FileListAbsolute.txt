@@ -1,0 +1,11 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\bin\MCD\Debug\netcoreapp2.1\1-element_at.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\bin\MCD\Debug\netcoreapp2.1\1-element_at.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\bin\MCD\Debug\netcoreapp2.1\1-element_at.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\bin\MCD\Debug\netcoreapp2.1\1-element_at.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\bin\MCD\Debug\netcoreapp2.1\1-element_at.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\MCD\Debug\netcoreapp2.1\1-element_at.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\MCD\Debug\netcoreapp2.1\1-element_at.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\MCD\Debug\netcoreapp2.1\1-element_at.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\MCD\Debug\netcoreapp2.1\1-element_at.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\MCD\Debug\netcoreapp2.1\1-element_at.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\MCD\Debug\netcoreapp2.1\1-element_at.pdb
