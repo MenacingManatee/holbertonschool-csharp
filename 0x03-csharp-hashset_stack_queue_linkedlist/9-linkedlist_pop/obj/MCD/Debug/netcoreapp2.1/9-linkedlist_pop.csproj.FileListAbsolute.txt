@@ -1,0 +1,11 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\MCD\Debug\netcoreapp2.1\9-linkedlist_pop.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\MCD\Debug\netcoreapp2.1\9-linkedlist_pop.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\MCD\Debug\netcoreapp2.1\9-linkedlist_pop.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\MCD\Debug\netcoreapp2.1\9-linkedlist_pop.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\MCD\Debug\netcoreapp2.1\9-linkedlist_pop.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\MCD\Debug\netcoreapp2.1\9-linkedlist_pop.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\MCD\Debug\netcoreapp2.1\9-linkedlist_pop.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\MCD\Debug\netcoreapp2.1\9-linkedlist_pop.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\MCD\Debug\netcoreapp2.1\9-linkedlist_pop.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\MCD\Debug\netcoreapp2.1\9-linkedlist_pop.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\MCD\Debug\netcoreapp2.1\9-linkedlist_pop.pdb

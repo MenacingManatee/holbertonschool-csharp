@@ -1,0 +1,11 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\MCD\Debug\netcoreapp2.1\10-linkedlist_get_node.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\MCD\Debug\netcoreapp2.1\10-linkedlist_get_node.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\MCD\Debug\netcoreapp2.1\10-linkedlist_get_node.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\MCD\Debug\netcoreapp2.1\10-linkedlist_get_node.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\MCD\Debug\netcoreapp2.1\10-linkedlist_get_node.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\MCD\Debug\netcoreapp2.1\10-linkedlist_get_node.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\MCD\Debug\netcoreapp2.1\10-linkedlist_get_node.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\MCD\Debug\netcoreapp2.1\10-linkedlist_get_node.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\MCD\Debug\netcoreapp2.1\10-linkedlist_get_node.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\MCD\Debug\netcoreapp2.1\10-linkedlist_get_node.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\MCD\Debug\netcoreapp2.1\10-linkedlist_get_node.pdb
