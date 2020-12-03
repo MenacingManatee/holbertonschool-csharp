@@ -1,12 +1,22 @@
 ﻿using System;
 
-namespace _15_square_matrix
+class Matrix
 {
-    class Program
+    public static int[,] Square(int[,] myMatrix)
     {
-        static void Main(string[] args)
+        int l1 = myMatrix.GetLength(0);
+        int l2 = myMatrix.GetLength(1);
+        int[,] m = new int[l1, l2];
+        int i;
+        int j;
+
+        for (i = 0; i < l1; i++)
         {
-            Console.WriteLine("Hello World!");
+            for (j = 0; j < l2; j++)
+            {
+                m[i, j] = myMatrix[i, j] * myMatrix[i, j];
+            }
         }
+        return m;
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\MCD\Debug\netcoreapp2.1\15-square_matrix.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\MCD\Debug\netcoreapp2.1\15-square_matrix.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\MCD\Debug\netcoreapp2.1\15-square_matrix.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\MCD\Debug\netcoreapp2.1\15-square_matrix.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\bin\MCD\Debug\netcoreapp2.1\15-square_matrix.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\bin\MCD\Debug\netcoreapp2.1\15-square_matrix.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\bin\MCD\Debug\netcoreapp2.1\15-square_matrix.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\bin\MCD\Debug\netcoreapp2.1\15-square_matrix.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\bin\MCD\Debug\netcoreapp2.1\15-square_matrix.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\MCD\Debug\netcoreapp2.1\15-square_matrix.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\MCD\Debug\netcoreapp2.1\15-square_matrix.pdb
