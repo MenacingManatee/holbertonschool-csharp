@@ -22,6 +22,6 @@ class LList
             node = node.Next;
         }
         myLList.AddLast(n);
-        return myLList.Last; //Should be redundant
+        return myLList.Last;
     }
 }
