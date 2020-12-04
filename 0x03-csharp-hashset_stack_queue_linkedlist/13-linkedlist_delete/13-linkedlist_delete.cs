@@ -8,11 +8,11 @@ class LList
         var node = myLList.First;
         int count;
 
-        for (count = 0; count < index && count < myLList.Count; count++)
+        for (count = 0; count <= index && count < myLList.Count; count++)
         {
-            node = node.Next;
-            if (count == index - 1)
+            if (count == index)
                 myLList.Remove(node);
+            node = node.Next;
         }
     }
 }
