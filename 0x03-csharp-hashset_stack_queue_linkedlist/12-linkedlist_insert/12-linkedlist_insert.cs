@@ -21,6 +21,7 @@ class LList
             }
             node = node.Next;
         }
-        return myLList.First; //Should be redundant
+        myLList.AddLast(n);
+        return myLList.Last; //Should be redundant
     }
 }
