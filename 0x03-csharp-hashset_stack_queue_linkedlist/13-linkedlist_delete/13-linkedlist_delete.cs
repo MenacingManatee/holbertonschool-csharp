@@ -11,8 +11,8 @@ class LList
         for (count = 0; count < index && count < myLList.Count; count++)
         {
             node = node.Next;
+            if (count == index - 1)
+                myLList.Remove(node);
         }
-        if (count == index)
-            myLList.Remove(node);
     }
 }
