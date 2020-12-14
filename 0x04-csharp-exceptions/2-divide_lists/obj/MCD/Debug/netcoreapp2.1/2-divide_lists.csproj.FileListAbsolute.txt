@@ -1,0 +1,11 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\obj\MCD\Debug\netcoreapp2.1\2-divide_lists.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\obj\MCD\Debug\netcoreapp2.1\2-divide_lists.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\obj\MCD\Debug\netcoreapp2.1\2-divide_lists.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\obj\MCD\Debug\netcoreapp2.1\2-divide_lists.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\bin\MCD\Debug\netcoreapp2.1\2-divide_lists.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\bin\MCD\Debug\netcoreapp2.1\2-divide_lists.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\bin\MCD\Debug\netcoreapp2.1\2-divide_lists.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\bin\MCD\Debug\netcoreapp2.1\2-divide_lists.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\bin\MCD\Debug\netcoreapp2.1\2-divide_lists.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\obj\MCD\Debug\netcoreapp2.1\2-divide_lists.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\2-divide_lists\obj\MCD\Debug\netcoreapp2.1\2-divide_lists.pdb

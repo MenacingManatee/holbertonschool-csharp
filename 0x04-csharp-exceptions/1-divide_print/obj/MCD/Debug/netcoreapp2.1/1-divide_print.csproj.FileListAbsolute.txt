@@ -1,0 +1,11 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\1-divide_print\obj\MCD\Debug\netcoreapp2.1\1-divide_print.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\1-divide_print\obj\MCD\Debug\netcoreapp2.1\1-divide_print.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\1-divide_print\obj\MCD\Debug\netcoreapp2.1\1-divide_print.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\1-divide_print\obj\MCD\Debug\netcoreapp2.1\1-divide_print.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\1-divide_print\bin\MCD\Debug\netcoreapp2.1\1-divide_print.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\1-divide_print\bin\MCD\Debug\netcoreapp2.1\1-divide_print.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\1-divide_print\bin\MCD\Debug\netcoreapp2.1\1-divide_print.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\1-divide_print\bin\MCD\Debug\netcoreapp2.1\1-divide_print.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\1-divide_print\bin\MCD\Debug\netcoreapp2.1\1-divide_print.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\1-divide_print\obj\MCD\Debug\netcoreapp2.1\1-divide_print.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x04-csharp-exceptions\1-divide_print\obj\MCD\Debug\netcoreapp2.1\1-divide_print.pdb
