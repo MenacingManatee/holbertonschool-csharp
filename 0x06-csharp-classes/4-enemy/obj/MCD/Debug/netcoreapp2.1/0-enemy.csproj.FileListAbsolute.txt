@@ -1,0 +1,11 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\0-enemy\bin\MCD\Debug\netcoreapp2.1\0-enemy.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\0-enemy\bin\MCD\Debug\netcoreapp2.1\0-enemy.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\0-enemy\bin\MCD\Debug\netcoreapp2.1\0-enemy.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\0-enemy\bin\MCD\Debug\netcoreapp2.1\0-enemy.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\0-enemy\bin\MCD\Debug\netcoreapp2.1\0-enemy.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\0-enemy\obj\MCD\Debug\netcoreapp2.1\0-enemy.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\0-enemy\obj\MCD\Debug\netcoreapp2.1\0-enemy.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\0-enemy\obj\MCD\Debug\netcoreapp2.1\0-enemy.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\0-enemy\obj\MCD\Debug\netcoreapp2.1\0-enemy.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\0-enemy\obj\MCD\Debug\netcoreapp2.1\0-enemy.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\0-enemy\obj\MCD\Debug\netcoreapp2.1\0-enemy.pdb
