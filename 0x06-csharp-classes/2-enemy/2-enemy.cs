@@ -14,6 +14,14 @@ namespace Enemies
 
         /// <summary>
         /// Zombie constructor
+        /// </summary>
+        public Zombie()
+        {
+            this.health = 0;
+        }
+        
+        /// <summary>
+        /// Zombie constructor
         /// Allows variable health stat with validator
         /// </summary>
         public Zombie(int value)
