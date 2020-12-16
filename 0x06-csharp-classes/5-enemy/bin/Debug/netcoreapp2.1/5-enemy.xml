@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>
+            Main class for zombie enemy
+            </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            Private stat for zombie health
+        </member>
+        <member name="F:Enemies.Zombie.name">
+            Private variable for zombie name
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>
+            Base Zombie constructor
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>
+            Zombie constructor with variable health
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary>
+            Returns zombie health
+            </summary>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary>
+            Getter/setter for zombie name
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.ToString">
+            <summary>
+            Override for .ToString method
+            </summary>
+        </member>
+    </members>
+</doc>

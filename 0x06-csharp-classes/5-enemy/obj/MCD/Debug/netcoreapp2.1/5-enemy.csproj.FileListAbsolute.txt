@@ -9,3 +9,4 @@ C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\5-enem
 C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\5-enemy\bin\MCD\Debug\netcoreapp2.1\5-enemy.pdb
 C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\5-enemy\obj\MCD\Debug\netcoreapp2.1\5-enemy.dll
 C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\5-enemy\obj\MCD\Debug\netcoreapp2.1\5-enemy.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x06-csharp-classes\5-enemy\bin\MCD\Debug\netcoreapp2.1\5-enemy.xml
