@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMath</name>
+    </assembly>
+    <members>
+        <member name="T:MyMath.Operations">
+            <summary>
+            Operations class for math operations
+            </summary>
+        </member>
+        <member name="M:MyMath.Operations.Divide(System.Int32[0:,0:],System.Int32)">
+            <summary>
+            Divides all elements of a matrix
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,10 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\1-divide\MyMath\bin\MCD\Debug\netstandard2.0\MyMath.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\1-divide\MyMath\bin\MCD\Debug\netstandard2.0\MyMath.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\1-divide\MyMath\bin\MCD\Debug\netstandard2.0\MyMath.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\1-divide\MyMath\bin\MCD\Debug\netstandard2.0\MyMath.xml
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\1-divide\MyMath\obj\MCD\Debug\netstandard2.0\MyMath.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\1-divide\MyMath\obj\MCD\Debug\netstandard2.0\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\1-divide\MyMath\obj\MCD\Debug\netstandard2.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\1-divide\MyMath\obj\MCD\Debug\netstandard2.0\MyMath.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\1-divide\MyMath\obj\MCD\Debug\netstandard2.0\MyMath.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\1-divide\MyMath\obj\MCD\Debug\netstandard2.0\MyMath.pdb

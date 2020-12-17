@@ -1,18 +1,67 @@
 using NUnit.Framework;
 
-namespace Tests
+namespace MyMath.Tests
 {
+    [TestFixture]
     public class Tests
     {
+        private int[,] _sm_matrix = new int[,]
+        {
+            {0, 2, 4},
+            {6, 8, 10}
+        };
+
         [SetUp]
         public void Setup()
         {
         }
 
         [Test]
-        public void Test1()
+        public void Test_sm_1()
         {
-            Assert.Pass();
+            int[,] res = MyMath.Operations.Divide(_sm_matrix, 1);
+            Assert.AreEqual(res, _sm_matrix);
+            Assert.AreNotSame(res, _sm_matrix);
+        }
+        [Test]
+        public void Test_sm_2()
+        {
+            int[,] res = MyMath.Operations.Divide(_sm_matrix, 2);
+            int[,] expected = new int[,]
+            {
+                {0, 1, 2},
+                {3, 4, 5}
+            };
+            Assert.AreEqual(res, expected);
+            Assert.AreNotSame(res, _sm_matrix);
+        }
+        [Test]
+        public void Test_sm_0()
+        {
+            try
+            {
+                int[,] res = MyMath.Operations.Divide(_sm_matrix, 0);
+                Assert.AreEqual(res, null);
+            }
+            catch (System.DivideByZeroException)
+            {
+                Assert.Fail();
+                return;
+            }
+        }
+        [Test]
+        public void Test_null()
+        {
+            try
+            {
+                int[,] res = MyMath.Operations.Divide(null, 1);
+                Assert.AreEqual(res, null);
+            }
+            catch (System.Exception)
+            {
+                Assert.Fail();
+                return;
+            }
         }
     }
 }
