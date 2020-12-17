@@ -1,0 +1,10 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\bin\MCD\Debug\netstandard2.0\Text.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\bin\MCD\Debug\netstandard2.0\Text.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\bin\MCD\Debug\netstandard2.0\Text.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\bin\MCD\Debug\netstandard2.0\Text.xml
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\obj\MCD\Debug\netstandard2.0\Text.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\obj\MCD\Debug\netstandard2.0\Text.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\obj\MCD\Debug\netstandard2.0\Text.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\obj\MCD\Debug\netstandard2.0\Text.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\obj\MCD\Debug\netstandard2.0\Text.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x07-csharp-tdd\3-palindrome\Text\obj\MCD\Debug\netstandard2.0\Text.pdb
