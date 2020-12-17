@@ -5,12 +5,6 @@ namespace MyMath.Tests
     [TestFixture]
     public class Tests
     {
-        private int[,] _sm_matrix = new int[,]
-        {
-            {0, 2, 4},
-            {6, 8, 10}
-        };
-
         [SetUp]
         public void Setup()
         {
@@ -19,6 +13,11 @@ namespace MyMath.Tests
         [Test]
         public void Test_sm_1()
         {
+            int[,] _sm_matrix = new int[,]
+            {
+                {0, 2, 4},
+                {6, 8, 10}
+            };
             int[,] res = MyMath.Operations.Divide(_sm_matrix, 1);
             Assert.AreEqual(res, _sm_matrix);
             Assert.AreNotSame(res, _sm_matrix);
@@ -26,6 +25,11 @@ namespace MyMath.Tests
         [Test]
         public void Test_sm_2()
         {
+            int[,] _sm_matrix = new int[,]
+            {
+                {0, 2, 4},
+                {6, 8, 10}
+            };
             int[,] res = MyMath.Operations.Divide(_sm_matrix, 2);
             int[,] expected = new int[,]
             {
@@ -38,6 +42,11 @@ namespace MyMath.Tests
         [Test]
         public void Test_sm_0()
         {
+            int[,] _sm_matrix = new int[,]
+            {
+                {0, 2, 4},
+                {6, 8, 10}
+            };
             try
             {
                 int[,] res = MyMath.Operations.Divide(_sm_matrix, 0);
