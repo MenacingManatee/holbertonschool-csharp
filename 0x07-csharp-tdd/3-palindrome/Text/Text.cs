@@ -3,8 +3,14 @@ using System.Text.RegularExpressions;
 
 namespace Text
 {
+    /// <summary>
+    /// Str class
+    /// </summary>
     public class Str
     {
+        /// <summary>
+        /// Determines if a string is a palindrome
+        /// </summary>
         public static bool IsPalindrome(string s)
         {
             if (s == null)
