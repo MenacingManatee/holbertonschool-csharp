@@ -1,4 +1,6 @@
 using NUnit.Framework;
+using System;
+using System.IO;
 
 namespace MyMath.Tests
 {
@@ -49,8 +51,15 @@ namespace MyMath.Tests
             };
             try
             {
-                int[,] res = MyMath.Operations.Divide(_sm_matrix, 0);
-                Assert.AreEqual(res, null);
+                using (StringWriter sw = new StringWriter())
+                {
+                    Console.SetOut(sw);
+
+                    string outp = string.Format("Num cannot be 0{0}", Environment.NewLine);
+                    int[,] res = MyMath.Operations.Divide(_sm_matrix, 0);
+                    Assert.AreEqual(outp, sw.ToString());
+                    Assert.AreEqual(res, null);
+                }
             }
             catch (System.DivideByZeroException)
             {
@@ -63,8 +72,15 @@ namespace MyMath.Tests
         {
             try
             {
-                int[,] res = MyMath.Operations.Divide(null, 1);
-                Assert.AreEqual(res, null);
+                using (StringWriter sw = new StringWriter())
+                {
+                    Console.SetOut(sw);
+
+                    string outp = "";
+                    int[,] res = MyMath.Operations.Divide(null, 1);
+                    Assert.AreEqual(outp, sw.ToString());
+                    Assert.AreEqual(res, null);
+                }
             }
             catch (System.Exception)
             {
