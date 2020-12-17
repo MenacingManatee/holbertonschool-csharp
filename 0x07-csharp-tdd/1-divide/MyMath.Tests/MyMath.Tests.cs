@@ -20,7 +20,7 @@ namespace MyMath.Tests
                 {0, 2, 4},
                 {6, 8, 10}
             };
-            int[,] res = MyMath.Operations.Divide(_sm_matrix, 1);
+            int[,] res = MyMath.Matrix.Divide(_sm_matrix, 1);
             Assert.AreEqual(res, _sm_matrix);
             Assert.AreNotSame(res, _sm_matrix);
         }
@@ -32,7 +32,7 @@ namespace MyMath.Tests
                 {0, 2, 4},
                 {6, 8, 10}
             };
-            int[,] res = MyMath.Operations.Divide(_sm_matrix, 2);
+            int[,] res = MyMath.Matrix.Divide(_sm_matrix, 2);
             int[,] expected = new int[,]
             {
                 {0, 1, 2},
@@ -56,7 +56,7 @@ namespace MyMath.Tests
                     Console.SetOut(sw);
 
                     string outp = string.Format("Num cannot be 0{0}", Environment.NewLine);
-                    int[,] res = MyMath.Operations.Divide(_sm_matrix, 0);
+                    int[,] res = MyMath.Matrix.Divide(_sm_matrix, 0);
                     Assert.AreEqual(outp, sw.ToString());
                     Assert.AreEqual(res, null);
                 }
@@ -77,7 +77,7 @@ namespace MyMath.Tests
                     Console.SetOut(sw);
 
                     string outp = "";
-                    int[,] res = MyMath.Operations.Divide(null, 1);
+                    int[,] res = MyMath.Matrix.Divide(null, 1);
                     Assert.AreEqual(outp, sw.ToString());
                     Assert.AreEqual(res, null);
                 }

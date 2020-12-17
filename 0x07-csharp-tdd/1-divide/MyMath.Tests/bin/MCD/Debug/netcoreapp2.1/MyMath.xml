@@ -4,12 +4,12 @@
         <name>MyMath</name>
     </assembly>
     <members>
-        <member name="T:MyMath.Operations">
+        <member name="T:MyMath.Matrix">
             <summary>
-            Operations class for math operations
+            Matrix class for math operations
             </summary>
         </member>
-        <member name="M:MyMath.Operations.Divide(System.Int32[0:,0:],System.Int32)">
+        <member name="M:MyMath.Matrix.Divide(System.Int32[0:,0:],System.Int32)">
             <summary>
             Divides all elements of a matrix
             </summary>

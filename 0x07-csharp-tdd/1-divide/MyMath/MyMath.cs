@@ -3,9 +3,9 @@
 namespace MyMath
 {
     /// <summary>
-    /// Operations class for math operations
+    /// Matrix class for math operations
     /// </summary>
-    public class Operations
+    public class Matrix
     {
         /// <summary>
         /// Divides all elements of a matrix
