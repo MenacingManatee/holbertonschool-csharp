@@ -18,7 +18,7 @@ namespace MyMath
                 return (null);
             }
             if (matrix == null)
-                return null;
+                return (null);
 
             int l1 = matrix.GetLength(0);
             int l2 = matrix.GetLength(1);
