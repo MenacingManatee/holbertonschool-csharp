@@ -1,0 +1,12 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\MCD\Debug\netcoreapp2.1\7-shape.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\MCD\Debug\netcoreapp2.1\7-shape.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\MCD\Debug\netcoreapp2.1\7-shape.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\MCD\Debug\netcoreapp2.1\7-shape.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\MCD\Debug\netcoreapp2.1\7-shape.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\MCD\Debug\netcoreapp2.1\7-shape.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\MCD\Debug\netcoreapp2.1\7-shape.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\MCD\Debug\netcoreapp2.1\7-shape.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\MCD\Debug\netcoreapp2.1\7-shape.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\MCD\Debug\netcoreapp2.1\7-shape.xml
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\MCD\Debug\netcoreapp2.1\7-shape.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\MCD\Debug\netcoreapp2.1\7-shape.pdb

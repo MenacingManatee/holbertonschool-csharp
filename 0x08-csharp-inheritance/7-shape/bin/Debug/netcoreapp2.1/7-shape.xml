@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>7-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <summary>
+            Base class for shapes
+            </summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary>
+            Unimplemented area function
+            </summary>
+        </member>
+        <member name="T:Rectangle">
+            <summary>
+            Rectangle class, inherits from shape base class
+            </summary>
+        </member>
+        <member name="F:Rectangle.width">
+            rectangle width
+        </member>
+        <member name="F:Rectangle.height">
+            rectangle height
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary>
+            Width for use in getter/setter
+            </summary>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary>
+            Height for use in getter/setter
+            </summary>
+        </member>
+        <member name="M:Rectangle.Area">
+            <summary>
+            Override for area implementation
+            </summary>
+        </member>
+        <member name="M:Rectangle.ToString">
+            <summary>
+            Override for ToString method
+            </summary>
+        </member>
+    </members>
+</doc>

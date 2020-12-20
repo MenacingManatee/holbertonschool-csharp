@@ -1,0 +1,12 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\bin\MCD\Debug\netcoreapp2.1\5-shape.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\bin\MCD\Debug\netcoreapp2.1\5-shape.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\bin\MCD\Debug\netcoreapp2.1\5-shape.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\bin\MCD\Debug\netcoreapp2.1\5-shape.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\bin\MCD\Debug\netcoreapp2.1\5-shape.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\bin\MCD\Debug\netcoreapp2.1\5-shape.xml
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\obj\MCD\Debug\netcoreapp2.1\5-shape.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\obj\MCD\Debug\netcoreapp2.1\5-shape.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\obj\MCD\Debug\netcoreapp2.1\5-shape.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\obj\MCD\Debug\netcoreapp2.1\5-shape.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\obj\MCD\Debug\netcoreapp2.1\5-shape.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\obj\MCD\Debug\netcoreapp2.1\5-shape.pdb

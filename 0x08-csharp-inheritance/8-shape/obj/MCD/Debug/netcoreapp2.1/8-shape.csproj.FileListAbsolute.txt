@@ -1,0 +1,12 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\MCD\Debug\netcoreapp2.1\8-shape.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\MCD\Debug\netcoreapp2.1\8-shape.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\MCD\Debug\netcoreapp2.1\8-shape.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\MCD\Debug\netcoreapp2.1\8-shape.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\MCD\Debug\netcoreapp2.1\8-shape.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\MCD\Debug\netcoreapp2.1\8-shape.xml
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\MCD\Debug\netcoreapp2.1\8-shape.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\MCD\Debug\netcoreapp2.1\8-shape.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\MCD\Debug\netcoreapp2.1\8-shape.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\MCD\Debug\netcoreapp2.1\8-shape.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\MCD\Debug\netcoreapp2.1\8-shape.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\MCD\Debug\netcoreapp2.1\8-shape.pdb

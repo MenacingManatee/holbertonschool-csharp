@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>6-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <summary>
+            Base class for shapes
+            </summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary>
+            Unimplemented area function
+            </summary>
+        </member>
+        <member name="T:Rectangle">
+            <summary>
+            Rectangle class, inherits from shape base class
+            </summary>
+        </member>
+        <member name="F:Rectangle.width">
+            rectangle width
+        </member>
+        <member name="F:Rectangle.height">
+            rectangle height
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary>
+            Width for use in getter/setter
+            </summary>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary>
+            Height for use in getter/setter
+            </summary>
+        </member>
+    </members>
+</doc>
