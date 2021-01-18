@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>12-dot_product</name>
+    </assembly>
+    <members>
+        <member name="T:VectorMath">
+            <summary>
+            VectorMath class
+            </summary>
+        </member>
+        <member name="M:VectorMath.DotProduct(System.Double[],System.Double[])">
+            <summary>
+            Adds 2 2d or 3d vectors
+            </summary>
+        </member>
+    </members>
+</doc>
