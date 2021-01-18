@@ -1,26 +1,23 @@
 ﻿using System;
 
-namespace _3_magnitude
+/// <summary>
+/// VectorMath class
+/// </summary>
+class VectorMath
 {
     /// <summary>
-    /// VectorMath class
+    /// Finds the magnitude of a 2d or 3d vector
     /// </summary>
-    class VectorMath
+    public static double Magnitude(double[] vector)
     {
-        /// <summary>
-        /// Finds the magnitude of a 2d or 3d vector
-        /// </summary>
-        public static double Magnitude(double[] vector)
+        if (vector.Length == 2)
         {
-            if (vector.Length == 2)
-            {
-                return (Math.Round(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2)), 1));
-            }
-            if (vector.Length == 3)
-            {
-                return (Math.Round(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2) + Math.Pow(vector[2], 2)), 1));
-            }
-            return (-1);
+            return (Math.Round(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2)), 1));
         }
+        if (vector.Length == 3)
+        {
+            return (Math.Round(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2) + Math.Pow(vector[2], 2)), 1));
+        }
+        return (-1);
     }
 }
