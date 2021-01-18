@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>6-vector_addition</name>
+    </assembly>
+    <members>
+        <member name="T:VectorMath">
+            <summary>
+            VectorMath class
+            </summary>
+        </member>
+        <member name="M:VectorMath.Add(System.Double[],System.Double[])">
+            <summary>
+            Adds 2 2d or 3d vectors
+            </summary>
+        </member>
+    </members>
+</doc>
