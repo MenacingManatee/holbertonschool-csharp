@@ -25,8 +25,11 @@ class MatrixMath
             }
             else if (direction == 'y')
             {
-                 res[i, 0] = matrix[i, 0];
-                res[i, 1] = matrix[i, 1] + (factor * matrix[i, 0]);
+                for (i = 0; i < 2; i++)
+                {
+                    res[i, 0] = matrix[i, 0];
+                    res[i, 1] = matrix[i, 1] + (factor * matrix[i, 0]);
+                }
             }
             else
             {
