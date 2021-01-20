@@ -1,12 +1,38 @@
 ﻿using System;
 
-namespace _24_matrix_shear_2D
+/// <summary>
+/// MatrixMath class
+/// </summary>
+class MatrixMath
 {
-    class Program
+    /// <summary>
+    /// Shears a 2D matrix in given direction
+    /// </summary>
+    public static double[,] Shear2D(double[,] matrix, char direction, double factor)
     {
-        static void Main(string[] args)
+        int i = 0;
+        double[,] res = new double[matrix.GetLength(0), matrix.GetLength(1)];
+
+        if (matrix.GetLength(0) == 2 && matrix.GetLength(1) == 2)
         {
-            Console.WriteLine("Hello World!");
+            if (direction == 'x')
+            {
+                for (i = 0; i < 2; i++)
+                {
+                    res[i, 0] = matrix[i, 0] + (factor * matrix[i, 1]);
+                    res[i, 1] = matrix[i, 1];
+                }
+            }
+            else if (direction == 'y')
+            {
+                 res[i, 0] = matrix[i, 0];
+                res[i, 1] = matrix[i, 1] + (factor * matrix[i, 0]);
+            }
+            else
+            {
+                return (new double[,] {{-1}});
+            }
         }
+        return (new double[,] {{-1}});
     }
 }
