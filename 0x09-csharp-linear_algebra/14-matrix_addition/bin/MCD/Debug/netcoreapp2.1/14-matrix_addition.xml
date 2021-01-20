@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>14-matrix_addition</name>
+    </assembly>
+    <members>
+        <member name="T:MatrixMath">
+            <summary>
+            MatrixMath class
+            </summary>
+        </member>
+        <member name="M:MatrixMath.Add(System.Double[0:,0:],System.Double[0:,0:])">
+            <summary>
+            Adds 2 2d or 3d matrices
+            </summary>
+        </member>
+    </members>
+</doc>
