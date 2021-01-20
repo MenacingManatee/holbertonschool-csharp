@@ -14,29 +14,13 @@ class MatrixMath
         double tmp = 0;
         double[,] res = new double[matrix1.GetLength(0), matrix1.GetLength(1)];
 
-        if (matrix1.GetLength(0) == 2 && matrix2.GetLength(0) == 2 && matrix1.GetLength(1) == 2 && matrix2.GetLength(1) == 2)
+        if (matrix1.GetLength(0) == matrix2.GetLength(1) && matrix1.GetLength(1) == matrix2.GetLength(0))
         {
-            for (i = 0; i < 2; i++)
+            for (i = 0; i < matrix1.GetLength(1); i++)
             {
-                for (i2 = 0; i2 < 2; i2++)
+                for (i2 = 0; i2 < matrix1.GetLength(1); i2++)
                 {
-                    for (j = 0; j < 2; j++)
-                    {
-                        tmp += matrix1[i, j] * matrix2[j, i2];
-                    }
-                    res[i, i2] = tmp;
-                    tmp = 0;
-                }
-            }
-            return (res);
-        }
-        if (matrix1.GetLength(0) == 3 && matrix2.GetLength(0) == 3 && matrix1.GetLength(1) == 3 && matrix2.GetLength(1) == 3)
-        {
-            for (i = 0; i < 3; i++)
-            {
-                for (i2 = 0; i2 < 3; i2++)
-                {
-                    for (j = 0; j < 3; j++)
+                    for (j = 0; j < matrix1.GetLength(0); j++)
                     {
                         tmp += matrix1[i, j] * matrix2[j, i2];
                     }
