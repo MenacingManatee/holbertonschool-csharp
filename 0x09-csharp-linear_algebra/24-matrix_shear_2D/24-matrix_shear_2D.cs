@@ -22,6 +22,7 @@ class MatrixMath
                     res[i, 0] = matrix[i, 0] + (factor * matrix[i, 1]);
                     res[i, 1] = matrix[i, 1];
                 }
+                return (res);
             }
             else if (direction == 'y')
             {
@@ -30,6 +31,7 @@ class MatrixMath
                     res[i, 0] = matrix[i, 0];
                     res[i, 1] = matrix[i, 1] + (factor * matrix[i, 0]);
                 }
+                return (res);
             }
             else
             {
