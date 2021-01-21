@@ -17,8 +17,8 @@ class MatrixMath
         {
             for (i = 0; i < 2; i++)
             {
-                res[i, 0] = (matrix[i, 0] * Math.Cos(angle)) - (matrix[i, 1] * Math.Sin(angle));
-                res[i, 1] = (matrix[i, 0] * Math.Sin(angle)) + (matrix[i, 1] * Math.Cos(angle));
+                res[i, 0] = Math.Round((matrix[i, 0] * Math.Cos(angle)) - (matrix[i, 1] * Math.Sin(angle)), 2);
+                res[i, 1] = Math.Round((matrix[i, 0] * Math.Sin(angle)) + (matrix[i, 1] * Math.Cos(angle)), 2);
             }
             return (res);
         }
