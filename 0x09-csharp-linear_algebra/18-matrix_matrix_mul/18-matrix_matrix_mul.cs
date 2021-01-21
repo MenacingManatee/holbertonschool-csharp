@@ -13,15 +13,16 @@ class MatrixMath
         int i = 0, i2 = 0, j = 0;
         double tmp = 0;
         int l = Math.Min(matrix1.GetLength(0), matrix1.GetLength(1));
+        int m = Math.Max(matrix1.GetLength(0), matrix1.GetLength(1));
         double[,] res = new double[l, l];
 
         if (matrix1.GetLength(0) == matrix2.GetLength(1) && matrix1.GetLength(1) == matrix2.GetLength(0))
         {
-            for (i = 0; i < matrix1.GetLength(0); i++)
+            for (i = 0; i < l; i++)
             {
-                for (i2 = 0; i2 < matrix1.GetLength(0); i2++)
+                for (i2 = 0; i2 < l; i2++)
                 {
-                    for (j = 0; j < matrix1.GetLength(1); j++)
+                    for (j = 0; j < m; j++)
                     {
                         tmp += matrix1[i, j] * matrix2[j, i2];
                     }
