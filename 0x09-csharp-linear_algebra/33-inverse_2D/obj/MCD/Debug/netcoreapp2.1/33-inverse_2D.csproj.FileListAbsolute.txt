@@ -1,0 +1,12 @@
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x09-csharp-linear_algebra\33-inverse_2D\obj\MCD\Debug\netcoreapp2.1\33-inverse_2D.csprojAssemblyReference.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x09-csharp-linear_algebra\33-inverse_2D\obj\MCD\Debug\netcoreapp2.1\33-inverse_2D.csproj.CoreCompileInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x09-csharp-linear_algebra\33-inverse_2D\obj\MCD\Debug\netcoreapp2.1\33-inverse_2D.AssemblyInfoInputs.cache
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x09-csharp-linear_algebra\33-inverse_2D\obj\MCD\Debug\netcoreapp2.1\33-inverse_2D.AssemblyInfo.cs
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x09-csharp-linear_algebra\33-inverse_2D\bin\MCD\Debug\netcoreapp2.1\33-inverse_2D.deps.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x09-csharp-linear_algebra\33-inverse_2D\bin\MCD\Debug\netcoreapp2.1\33-inverse_2D.runtimeconfig.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x09-csharp-linear_algebra\33-inverse_2D\bin\MCD\Debug\netcoreapp2.1\33-inverse_2D.runtimeconfig.dev.json
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x09-csharp-linear_algebra\33-inverse_2D\bin\MCD\Debug\netcoreapp2.1\33-inverse_2D.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x09-csharp-linear_algebra\33-inverse_2D\bin\MCD\Debug\netcoreapp2.1\33-inverse_2D.pdb
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x09-csharp-linear_algebra\33-inverse_2D\bin\MCD\Debug\netcoreapp2.1\33-inverse_2D.xml
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x09-csharp-linear_algebra\33-inverse_2D\obj\MCD\Debug\netcoreapp2.1\33-inverse_2D.dll
+C:\Users\Brett Davis\Documents\holbertonschool-csharp\0x09-csharp-linear_algebra\33-inverse_2D\obj\MCD\Debug\netcoreapp2.1\33-inverse_2D.pdb
