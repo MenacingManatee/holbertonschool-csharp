@@ -22,8 +22,7 @@ class MatrixMath
                     res[j, i] = matrix[i, j];
                 }
             }
-            return (res);
         }
-        return (new double[,] {{}});
+        return (res);
     }
 }
