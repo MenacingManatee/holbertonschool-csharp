@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>25-matrix_transpose</name>
+    </assembly>
+    <members>
+        <member name="T:MatrixMath">
+            <summary>
+            MatrixMath class
+            </summary>
+        </member>
+        <member name="M:MatrixMath.Transpose(System.Double[0:,0:])">
+            <summary>
+            Transposes a matrix
+            </summary>
+        </member>
+    </members>
+</doc>
