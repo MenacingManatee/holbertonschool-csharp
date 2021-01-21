@@ -6,9 +6,9 @@
 class MatrixMath
 {
     /// <summary>
-    /// Transposes a matrix
+    /// Inverses a matrix
     /// </summary>
-    public static double[,] Transpose(double[,] matrix)
+    public static double[,] Inverse2D(double[,] matrix)
     {
         double[,] res = new double[2, 2];
 

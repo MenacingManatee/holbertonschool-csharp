@@ -11,9 +11,9 @@ namespace _33_inverse_2D
             double[,] matrix_2 = new double[,] { {3, 6}, {9, 12}, {15, 18} };
             double[,] tmp;
 
-            tmp = MatrixMath.Transpose(matrix_1);
+            tmp = MatrixMath.Inverse2D(matrix_1);
             PrintMatrix(tmp);
-            tmp = MatrixMath.Transpose(matrix_2);
+            tmp = MatrixMath.Inverse2D(matrix_2);
             PrintMatrix(tmp);
             
         }
