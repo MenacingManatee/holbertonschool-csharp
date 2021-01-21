@@ -25,7 +25,7 @@ class MatrixMath
                     {
                         tmp += matrix1[i, j] * matrix2[j, i2];
                     }
-                    res[i, i2] = tmp;
+                    res[i, i2] = Math.Round(tmp, 2);
                     tmp = 0;
                 }
             }
