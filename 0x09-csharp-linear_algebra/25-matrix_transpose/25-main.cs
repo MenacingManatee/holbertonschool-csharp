@@ -9,11 +9,14 @@ namespace _25_matrix_transpose
         {
             double[,] matrix_2 = new double[,] { {3, 6, 9}, {12, 15, 18} };
             double[,] matrix_3 = new double[,] { {3, 6}, {9, 12}, {15, 18} };
+            double[,] matrix_e = new double[,] {{}};
             double[,] tmp;
 
             tmp = MatrixMath.Transpose(matrix_2);
             PrintMatrix(tmp);
             tmp = MatrixMath.Transpose(matrix_3);
+            PrintMatrix(tmp);
+            tmp = MatrixMath.Transpose(matrix_e);
             PrintMatrix(tmp);
             
         }

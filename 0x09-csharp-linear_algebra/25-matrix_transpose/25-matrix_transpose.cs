@@ -24,6 +24,6 @@ class MatrixMath
             }
             return (res);
         }
-        return (new double[,] {{-1}});
+        return (new double[,] {{}});
     }
 }
