@@ -1,0 +1,6 @@
+*.jpg
+images/*
+bin
+bin/*
+obj
+obj/*
