@@ -76,4 +76,20 @@ class ImageProcessor
             }
         }
     }
+    public static void Thumbnail(string[] filenames, int height)
+    {
+        foreach (var filename in filenames) {
+            Console.WriteLine(filename);
+            using (var image = new Bitmap(System.Drawing.Image.FromFile(filename)))
+            {
+                double w;
+                w = ((double)image.Height / (double)image.Width) * (double)height;
+                ImageFormat format = image.RawFormat;
+                Image thumb = image.GetThumbnailImage(height, (int)w, ()=>false, IntPtr.Zero);
+                string fname = Path.GetFileName(filename);
+                string[] fname_split = fname.Split('.');
+                thumb.Save(fname_split[0] + "_th." + fname_split[1], format);
+            }
+        }
+    }
 }
