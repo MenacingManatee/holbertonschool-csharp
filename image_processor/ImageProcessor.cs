@@ -85,7 +85,7 @@ class ImageProcessor
                 double w;
                 w = ((double)image.Height / (double)image.Width) * (double)height;
                 ImageFormat format = image.RawFormat;
-                Image thumb = image.GetThumbnailImage(height, Math.Round(w, 0), ()=>false, IntPtr.Zero);
+                Image thumb = image.GetThumbnailImage(height, (int)Math.Round(w, 0), ()=>false, IntPtr.Zero);
                 string fname = Path.GetFileName(filename);
                 string[] fname_split = fname.Split('.');
                 thumb.Save(fname_split[0] + "_th." + fname_split[1], format);
