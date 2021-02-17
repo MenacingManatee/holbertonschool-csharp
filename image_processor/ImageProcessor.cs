@@ -79,7 +79,6 @@ class ImageProcessor
     public static void Thumbnail(string[] filenames, int height)
     {
         foreach (var filename in filenames) {
-            Console.WriteLine(filename);
             using (var image = new Bitmap(System.Drawing.Image.FromFile(filename)))
             {
                 double w;
