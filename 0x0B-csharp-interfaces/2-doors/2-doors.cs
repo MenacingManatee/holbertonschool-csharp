@@ -38,8 +38,8 @@ public interface ICollectable {
 /// <summary> Inherits from Base Interactive interface </summary>
 public class Door : Base, IInteractive {
     /// <summary> Door constructor </summary>
-    public Door(string n) {
-        name = n;
+    public Door(string n="Door") {
+        this.name = n;
     }
     /// <summary> Called when interacting </summary>
     public void Interact() {
