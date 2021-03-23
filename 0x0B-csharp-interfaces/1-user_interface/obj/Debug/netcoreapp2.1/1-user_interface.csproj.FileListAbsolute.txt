@@ -2,3 +2,11 @@ C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\
 C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.csproj.CoreCompileInputs.cache
 C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.AssemblyInfoInputs.cache
 C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.AssemblyInfo.cs
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.xml
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.deps.json
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.runtimeconfig.json
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.runtimeconfig.dev.json
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.dll
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.pdb
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.dll
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.pdb
