@@ -64,27 +64,27 @@ public class Decoration : Base, IInteractive, IBreakable {
     }
     /// <summary> Called on interaction </summary>
     public void Interact() {
-        if (this.durability <= 0) {
-            Console.WriteLine("The {0} has been broken.", this.name);
+        if (durability <= 0) {
+            Console.WriteLine("The {0} has been broken.", name);
         }
-        else if (this.isQuestItem == true) {
-            Console.WriteLine("You look at the {0}. There's a key inside.", this.name);
+        else if (isQuestItem == true) {
+            Console.WriteLine("You look at the {0}. There's a key inside.", name);
         }
         else {
-            Console.WriteLine("You look at the {0}. Not much to see here.", this.name);
+            Console.WriteLine("You look at the {0}. Not much to see here.", name);
         }
     }
     /// <summary> Called on damage </summary>
     public void Break() {
         durability--;
         if (durability > 0) {
-            Console.WriteLine("You hit the {0}. It cracks.", this.name);
+            Console.WriteLine("You hit the {0}. It cracks.", name);
         }
         else if (durability == 0) {
-            Console.WriteLine("You smash the {0}. What a mess", this.name);
+            Console.WriteLine("You smash the {0}. What a mess", name);
         }
         else {
-            Console.WriteLine("The {0} is already broken.", this.name);
+            Console.WriteLine("The {0} is already broken.", name);
         }
     }
 }
