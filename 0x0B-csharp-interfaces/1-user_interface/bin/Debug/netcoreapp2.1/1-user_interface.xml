@@ -4,5 +4,56 @@
         <name>1-user_interface</name>
     </assembly>
     <members>
+        <member name="T:Base">
+            <summary> Abstract base class </summary>
+        </member>
+        <member name="P:Base.name">
+            <summary> name string </summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary> Override for ToString method </summary>
+        </member>
+        <member name="T:IInteractive">
+            <summary> Interactive interface </summary>
+        </member>
+        <member name="M:IInteractive.Interact">
+            <summary> Interactions </summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary> Breakable interface </summary>
+        </member>
+        <member name="P:IBreakable.durability">
+            <summary> Item durability tracker </summary>
+        </member>
+        <member name="M:IBreakable.Break">
+            <summary> Break an item </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary> Collectable interface </summary>
+        </member>
+        <member name="P:ICollectable.isCollected">
+            <summary> Is the object collected </summary>
+        </member>
+        <member name="M:ICollectable.Collect">
+            <summary> Collect the object </summary>
+        </member>
+        <member name="T:TestObject">
+            <summary> Inherits from Base and all 3 interfaces </summary>
+        </member>
+        <member name="P:TestObject.durability">
+            <summary> item durability tracker </summary>
+        </member>
+        <member name="P:TestObject.isCollected">
+            <summary> item collection tracker </summary>
+        </member>
+        <member name="M:TestObject.Interact">
+            <summary> When object interacts with something </summary>
+        </member>
+        <member name="M:TestObject.Break">
+            <summary> When object breaks </summary>
+        </member>
+        <member name="M:TestObject.Collect">
+            <summary> When object collects something </summary>
+        </member>
     </members>
 </doc>
