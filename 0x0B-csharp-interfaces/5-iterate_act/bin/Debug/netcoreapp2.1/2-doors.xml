@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-doors</name>
+    </assembly>
+    <members>
+        <member name="T:Base">
+            <summary> Abstract base class </summary>
+        </member>
+        <member name="P:Base.name">
+            <summary> name string </summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary> Override for ToString method </summary>
+        </member>
+        <member name="T:IInteractive">
+            <summary> Interactive interface </summary>
+        </member>
+        <member name="M:IInteractive.Interact">
+            <summary> Interactions </summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary> Breakable interface </summary>
+        </member>
+        <member name="P:IBreakable.durability">
+            <summary> Item durability tracker </summary>
+        </member>
+        <member name="M:IBreakable.Break">
+            <summary> Break an item </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary> Collectable interface </summary>
+        </member>
+        <member name="P:ICollectable.isCollected">
+            <summary> Is the object collected </summary>
+        </member>
+        <member name="M:ICollectable.Collect">
+            <summary> Collect the object </summary>
+        </member>
+        <member name="T:Door">
+            <summary> Inherits from Base Interactive interface </summary>
+        </member>
+        <member name="M:Door.#ctor(System.String)">
+            <summary> Door constructor </summary>
+        </member>
+        <member name="M:Door.Interact">
+            <summary> Called when interacting </summary>
+        </member>
+    </members>
+</doc>
