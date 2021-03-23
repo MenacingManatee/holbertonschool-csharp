@@ -55,11 +55,11 @@ public class Decoration : Base, IInteractive, IBreakable {
 
     /// <summary> Decoration constructor </summary>
     public Decoration(string name="Decoration", int durability=1, bool isQuestItem=false) {
-        this.name = name;
-        this.isQuestItem = isQuestItem;
         if (durability <= 0) {
             throw new Exception("Durability must be greater than 0");
         }
+        this.name = name;
+        this.isQuestItem = isQuestItem;
         this.durability = durability;
     }
     /// <summary> Called on interaction </summary>
@@ -76,11 +76,11 @@ public class Decoration : Base, IInteractive, IBreakable {
     }
     /// <summary> Called on damage </summary>
     public void Break() {
-        this.durability -= 1;
-        if (this.durability > 0) {
+        durability--;
+        if (durability > 0) {
             Console.WriteLine("You hit the {0}. It cracks.", this.name);
         }
-        else if (this.durability == 0) {
+        else if (durability == 0) {
             Console.WriteLine("You smash the {0}. What a mess", this.name);
         }
         else {
