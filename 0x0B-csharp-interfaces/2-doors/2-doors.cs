@@ -43,6 +43,6 @@ public class Door : Base, IInteractive {
     }
     /// <summary> Called when interacting </summary>
     public void Interact() {
-        Console.WriteLine("You try to open the {0}. It's locked.", name);
+        Console.WriteLine("You try to open the {0}. It's locked.", this.name);
     }
 }
