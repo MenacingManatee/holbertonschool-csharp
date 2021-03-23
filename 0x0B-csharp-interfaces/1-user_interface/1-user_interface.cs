@@ -22,7 +22,6 @@ interface ICollectable {
     void Collect();
 }
 class TestObject : Base, IInteractive, IBreakable, ICollectable {
-    void ICollectable.Collect() {}
     public int durability {get; set; }
     public bool isCollected {get; set; }
 
