@@ -1,0 +1,12 @@
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0A-csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.csprojAssemblyReference.cache
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0A-csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.csproj.CoreCompileInputs.cache
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0A-csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.AssemblyInfoInputs.cache
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0A-csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.AssemblyInfo.cs
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0A-csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.xml
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0A-csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.deps.json
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0A-csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.runtimeconfig.json
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0A-csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.runtimeconfig.dev.json
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0A-csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.dll
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0A-csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.pdb
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0A-csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.dll
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0A-csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.pdb
