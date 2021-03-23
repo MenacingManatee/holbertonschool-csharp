@@ -1,0 +1,12 @@
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\4-keys\obj\Debug\netcoreapp2.1\4-keys.csprojAssemblyReference.cache
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\4-keys\obj\Debug\netcoreapp2.1\4-keys.csproj.CoreCompileInputs.cache
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\4-keys\obj\Debug\netcoreapp2.1\4-keys.AssemblyInfoInputs.cache
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\4-keys\obj\Debug\netcoreapp2.1\4-keys.AssemblyInfo.cs
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\4-keys\bin\Debug\netcoreapp2.1\4-keys.xml
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\4-keys\bin\Debug\netcoreapp2.1\4-keys.deps.json
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\4-keys\bin\Debug\netcoreapp2.1\4-keys.runtimeconfig.json
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\4-keys\bin\Debug\netcoreapp2.1\4-keys.runtimeconfig.dev.json
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\4-keys\bin\Debug\netcoreapp2.1\4-keys.dll
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\4-keys\bin\Debug\netcoreapp2.1\4-keys.pdb
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\4-keys\obj\Debug\netcoreapp2.1\4-keys.dll
+C:\Users\brett\OneDrive\Documents\holbertonschool-csharp\0x0B-csharp-interfaces\4-keys\obj\Debug\netcoreapp2.1\4-keys.pdb

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-keys</name>
+    </assembly>
+    <members>
+        <member name="T:Base">
+            <summary> Abstract base class </summary>
+        </member>
+        <member name="P:Base.name">
+            <summary> name string </summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary> Override for ToString method </summary>
+        </member>
+        <member name="T:IInteractive">
+            <summary> Interactive interface </summary>
+        </member>
+        <member name="M:IInteractive.Interact">
+            <summary> Interactions </summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary> Breakable interface </summary>
+        </member>
+        <member name="P:IBreakable.durability">
+            <summary> Item durability tracker </summary>
+        </member>
+        <member name="M:IBreakable.Break">
+            <summary> Break an item </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary> Collectable interface </summary>
+        </member>
+        <member name="P:ICollectable.isCollected">
+            <summary> Is the object collected </summary>
+        </member>
+        <member name="M:ICollectable.Collect">
+            <summary> Collect the object </summary>
+        </member>
+        <member name="T:Door">
+            <summary> Inherits from Base Interactive interface </summary>
+        </member>
+        <member name="M:Door.#ctor(System.String)">
+            <summary> Door constructor </summary>
+        </member>
+        <member name="M:Door.Interact">
+            <summary> Called when interacting </summary>
+        </member>
+        <member name="T:Decoration">
+            <summary> Inherits from Base, and interactive and breakable interfaces </summary>
+        </member>
+        <member name="F:Decoration.isQuestItem">
+            <summary> Is the item a quest item </summary>
+        </member>
+        <member name="P:Decoration.durability">
+            <summary> Object durability </summary>
+        </member>
+        <member name="M:Decoration.#ctor(System.String,System.Int32,System.Boolean)">
+            <summary> Decoration constructor </summary>
+        </member>
+        <member name="M:Decoration.Interact">
+            <summary> Called on interaction </summary>
+        </member>
+        <member name="M:Decoration.Break">
+            <summary> Called on damage </summary>
+        </member>
+        <member name="T:Key">
+            <summary> Inherits from Base and collectable interface </summary>
+        </member>
+        <member name="P:Key.isCollected">
+            <summary> Has the key been collected </summary>
+        </member>
+        <member name="M:Key.#ctor(System.String,System.Boolean)">
+            <summary> Key constructor </summary>
+        </member>
+        <member name="M:Key.Collect">
+            <summary> Collect key </summary>
+        </member>
+    </members>
+</doc>
