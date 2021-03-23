@@ -15,24 +15,31 @@ abstract class Base
 
 // <summary> Interactive interface </summary>
 interface IInteractive {
+    // <summary> Interactions </summary>
     void Interact();
 }
 
 // <summary> Breakable interface </summary>
 interface IBreakable {
+    // <summary> Item durability tracker </summary>
     int durability {get; set;}
+    // <summary> Break an item </summary>
     void Break();
 }
 
 // <summary> Collectable interface </summary>
 interface ICollectable {
+    // <summary> Is the object collected </summary>
     bool isCollected {get; set;}
+    // <summary> Collect the object </summary>
     void Collect();
 }
 
 // <summary> Inherits from Base and all 3 interfaces </summary>
 class TestObject : Base, IInteractive, IBreakable, ICollectable {
+    // <summary> item durability tracker </summary>
     public int durability {get; set; }
+    // <summary> item collection tracker </summary>
     public bool isCollected {get; set; }
 
     // <summary> When object interacts with something </summary>
