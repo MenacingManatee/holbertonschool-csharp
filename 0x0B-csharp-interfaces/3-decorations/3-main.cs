@@ -12,5 +12,13 @@ class Program
         coffeeMug.Break();
         coffeeMug.Break();
         coffeeMug.Interact();
+        try {
+            Decoration badDurability = new Decoration("Deco", -1);
+        }
+        catch (Exception e) {
+            Console.WriteLine(e);
+        }
+        Decoration questItem = new Decoration("Quest Item", 10, true);
+        questItem.Interact();
     }
 }

@@ -80,10 +80,10 @@ public class Decoration : Base, IInteractive, IBreakable {
         if (durability > 0) {
             Console.WriteLine("You hit the {0}. It cracks.", name);
         }
-        else if (durability == 0) {
+        if (durability == 0) {
             Console.WriteLine("You smash the {0}. What a mess", name);
         }
-        else {
+        if (durability < 0) {
             Console.WriteLine("The {0} is already broken.", name);
         }
     }
