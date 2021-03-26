@@ -63,16 +63,16 @@ class Player
         }
     }
     private void CheckStatus(object sender, CurrentHPArgs e) {
-        if (hp == maxHp) {
+        if (e.currentHp == maxHp) {
             this.status = String.Format("{0} is in perfect health!", name);
         }
-        else if (hp >= maxHp * 0.5f) {
+        else if (e.currentHp >= maxHp * 0.5f) {
             this.status = String.Format("{0} is doing well!", name);
         }
-        else if (hp >= maxHp * 0.25f) {
+        else if (e.currentHp >= maxHp * 0.25f) {
             this.status = String.Format("{0} isn't doing too great...", name);
         }
-        else if (hp > 0) {
+        else if (e.currentHp > 0) {
             this.status = String.Format("{0} needs help!", name);
         }
         else {
