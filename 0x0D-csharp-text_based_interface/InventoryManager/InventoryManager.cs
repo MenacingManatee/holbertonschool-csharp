@@ -9,9 +9,6 @@ namespace InventoryManager
             JSONStorage storage = new JSONStorage();
 
             storage.Load();
-            User testobj = new User("Test User");
-            storage.New(testobj);
-            storage.Save();
             string prompt = @"Inventory Manager
 -------------------------
 <ClassNames> show all ClassNames of objects
@@ -23,21 +20,53 @@ namespace InventoryManager
 <Delete [ClassName object_id]> an object
 <Exit>
 ";
+            string[] types = {"BaseClass", "User", "Item", "Inventory"};
+
             Console.Write(prompt);
             for (string r = Console.ReadLine(); r != null; r = Console.ReadLine()) {
-                string s;
-                if (r.Length >= 3)
-                    s = r.Substring(0, 3);
-                else
+                string[] commands = r.Split(' ', 3);
+                if (string.Compare(commands[0], "Exit", true) == 0)
+                    break;
+                if (commands[0].Length == 0) {
                     continue;
-                if (string.Compare(s, "All", true) == 0) {
-                    var a = storage.All();
-                    foreach (var key in a.Keys) {
-                        Console.WriteLine("{0} {1}", key, a[key].ToString());
+                }
+                var a = storage.All();
+                bool cFlag = false;
+                bool iFlag = false;
+                if (commands.Length == 2) {
+                    foreach (var type in types) {
+                        if (string.Compare(commands[1], type, true) == 0)
+                            cFlag = true;
+                    }
+                    if (cFlag == false) {
+                        Console.WriteLine("{0} is not a valid object type", commands[1]);
+                        continue;
                     }
                 }
-                else if (string.Compare(r, "Exit", true) == 0)
-                    break;
+                if (commands.Length == 3) {
+                    foreach (var o in a.Values) {
+                        if (string.Compare(o.id, commands[2], true) == 0)
+                            iFlag = true;
+                    }
+                    if (iFlag == false) {
+                        Console.WriteLine("Object {0} could not be found", commands[2]);
+                        continue;
+                    }
+                }
+                if (string.Compare(commands[0], "All", true) == 0) {
+                    if (commands.Length == 1){
+                        foreach (var key in a.Keys) {
+                            Console.WriteLine("{0} {1}", key, a[key].ToString());
+                        }
+                    }
+                    else {
+                        foreach (var key in a.Keys) {
+                            if (string.Compare(a[key].type, commands[1], true) == 0) {
+                                Console.WriteLine("{0} {1}", key, a[key].ToString());
+                            }
+                        }
+                    }
+                }
                 Console.Write(prompt);
             }
         }
