@@ -33,7 +33,7 @@ namespace InventoryManager
                 var a = storage.All();
                 bool cFlag = false;
                 bool iFlag = false;
-                if (commands.Length == 2) {
+                if (commands.Length >= 2) {
                     foreach (var type in types) {
                         if (string.Compare(commands[1], type, true) == 0)
                             cFlag = true;
@@ -43,7 +43,7 @@ namespace InventoryManager
                         continue;
                     }
                 }
-                if (commands.Length == 3) {
+                if (commands.Length >= 3) {
                     foreach (var o in a.Values) {
                         if (string.Compare(o.id, commands[2], true) == 0)
                             iFlag = true;
