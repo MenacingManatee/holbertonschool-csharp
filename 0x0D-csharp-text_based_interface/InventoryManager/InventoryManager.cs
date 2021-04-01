@@ -96,6 +96,10 @@ namespace InventoryManager
                         Console.WriteLine("Object {0} could not be found", commands[2]);
                     }
                 }
+                else {
+                    Console.WriteLine("{0} is not a valid command", commands[0]);
+                    continue;
+                }
                 Console.Write(prompt);
             }
         }
