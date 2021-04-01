@@ -30,5 +30,18 @@ namespace InventoryManagement.Tests
             storage.Load();
             Assert.IsTrue(storage.All().ContainsKey(String.Format("User.{0}", u.id)));
         }
+        [TestMethod]
+        public void TestStorageAll()
+        {
+            JSONStorage storage = new JSONStorage();
+            User u1 = new User("Test User 1");
+            User u2 = new User("Test User 2");
+
+            storage.New(u1);
+            storage.New(u2);
+            storage.Save();
+            Assert.IsTrue(storage.All().ContainsKey(String.Format("User.{0}", u1.id)));
+            Assert.IsTrue(storage.All().ContainsKey(String.Format("User.{0}", u2.id)));
+        }
     }
 }
