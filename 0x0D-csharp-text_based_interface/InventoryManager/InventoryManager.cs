@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace InventoryManager
 {
@@ -95,6 +97,15 @@ namespace InventoryManager
                     else {
                         Console.WriteLine("Object {0} could not be found", commands[2]);
                     }
+                }
+                else if (string.Compare(commands[0], "ClassNames", true) == 0) {
+                    List<string> names = new List<string>();
+                    foreach (var v in a.Values) {
+                        names.Add(v.GetType().ToString());
+                    }
+                    names = names.Distinct().ToList();
+                    string res = string.Join(", ", names);
+                    Console.WriteLine(res);
                 }
                 else {
                     Console.WriteLine("{0} is not a valid command", commands[0]);
