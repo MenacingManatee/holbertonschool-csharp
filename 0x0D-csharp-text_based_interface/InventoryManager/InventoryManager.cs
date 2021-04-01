@@ -24,7 +24,7 @@ namespace InventoryManager
 
             Console.Write(prompt);
             for (string r = Console.ReadLine(); r != null; r = Console.ReadLine()) {
-                string[] commands = r.Split(' ', 3);
+                string[] commands = r.Split(' ');
                 if (string.Compare(commands[0], "Exit", true) == 0)
                     break;
                 if (commands[0].Length == 0) {
@@ -65,6 +65,35 @@ namespace InventoryManager
                                 Console.WriteLine("{0} {1}", key, a[key].ToString());
                             }
                         }
+                    }
+                }
+                else if (string.Compare(commands[0], "Show", true) == 0) {
+                    string key = string.Format("{0}.{1}", commands[1], commands[2]);
+                    if (a.ContainsKey(key)) {
+                        Console.WriteLine(a[key]);
+                    }
+                    else {
+                        Console.WriteLine("Object {0} could not be found", commands[2]);
+                    }
+                }
+                else if (string.Compare(commands[0], "Update", true) == 0) {
+                    string key = string.Format("{0}.{1}", commands[1], commands[2]);
+                    if (a.ContainsKey(key)) {
+                        storage.objects[key].date_updated = DateTime.Now;
+                        storage.Save();
+                    }
+                    else {
+                        Console.WriteLine("Object {0} could not be found", commands[2]);
+                    }
+                }
+                else if (string.Compare(commands[0], "Delete", true) == 0) {
+                    string key = string.Format("{0}.{1}", commands[1], commands[2]);
+                    if (a.ContainsKey(key)) {
+                        storage.objects.Remove(key);
+                        storage.Save();
+                    }
+                    else {
+                        Console.WriteLine("Object {0} could not be found", commands[2]);
                     }
                 }
                 Console.Write(prompt);
