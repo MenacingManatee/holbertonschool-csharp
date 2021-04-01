@@ -1,10 +1,15 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 /// <summary> Item Class </summary>
 public class Item : BaseClass
 {
+    /// <summary> Object type for json serialization </summary>
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+    public new string type {get; set;} = "Item";
     /// <summary> Name string of item </summary>
     public string name { get; set; }
     /// <summary> Optional description </summary>
@@ -21,5 +26,12 @@ public class Item : BaseClass
             this.price = (float)Math.Round(price * 100f) / 100f;
         }
         this.tags = tags;
+    }
+    /// <summary> String override </summary>
+    public override string ToString() {
+        this.type = null;
+        var res = JsonSerializer.Serialize(this);
+        this.type = "Item";
+        return(res);
     }
 }

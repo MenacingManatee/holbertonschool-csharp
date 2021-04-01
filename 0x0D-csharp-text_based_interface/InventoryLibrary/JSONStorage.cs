@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text.Json;
 using System.Text.Json.Serialization;
@@ -29,9 +30,29 @@ public class JSONStorage
         Directory.CreateDirectory("storage");
         File.WriteAllText("storage/inventory_manager.json", jsonString);
     }
+    /// <summary> Loads all objects from file </summary>
     public void Load() {
-        Dictionary<string, dynamic> tmp = JsonSerializer.Deserialize<Dictionary<string, dynamic>>(File.ReadAllText("storage/inventory_manager.json"));
-        
-        this.objects = tmp;
+        Dictionary<string, dynamic> tmp;
+        Dictionary<string, dynamic> objs = new Dictionary<string, dynamic>();
+        if (Directory.Exists("storage") && File.Exists("storage/inventory_manager.json")) {
+            tmp = JsonSerializer.Deserialize<Dictionary<string, dynamic>>(File.ReadAllText("storage/inventory_manager.json"));
+            var keys = tmp.Keys;
+            foreach (var key in keys) {
+                objs.Add(key, nestedDeserialize(tmp[key].ToString()));
+            }
+            this.objects = objs;
+        }
+    }
+    private dynamic nestedDeserialize(string obj) {
+        Dictionary<string, string> tmp = JsonSerializer.Deserialize<Dictionary<string, string>>(obj);
+        var keys = tmp.Keys;
+        if (tmp["type"] == "User")
+            return (JsonSerializer.Deserialize<User>(obj));
+        else if (tmp["type"] == "Item")
+            return (JsonSerializer.Deserialize<User>(obj));
+        else if (tmp["type"] == "Inventory")
+            return (JsonSerializer.Deserialize<Inventory>(obj));
+        else
+            return (JsonSerializer.Deserialize<BaseClass>(obj));
     }
 }
