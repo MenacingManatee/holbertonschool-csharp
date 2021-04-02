@@ -49,10 +49,27 @@ public class JSONStorage
         if (tmp["type"] == "User")
             return (JsonSerializer.Deserialize<User>(obj));
         else if (tmp["type"] == "Item")
-            return (JsonSerializer.Deserialize<User>(obj));
+            return (JsonSerializer.Deserialize<Item>(obj));
         else if (tmp["type"] == "Inventory")
             return (JsonSerializer.Deserialize<Inventory>(obj));
         else
             return (JsonSerializer.Deserialize<BaseClass>(obj));
+    }
+    public bool updateObj<T>(string key, string paramName, dynamic val) {
+        var obj = this.objects[key];
+        this.objects.Remove(key);
+        var jsonString = JsonSerializer.Serialize(obj);
+        Dictionary<string, string> objDict = JsonSerializer.Deserialize<Dictionary<string, string>>(jsonString);
+        if (objDict.ContainsKey(paramName)) {
+            objDict[paramName] = val.ToString();
+            jsonString = JsonSerializer.Serialize(objDict);
+            obj = JsonSerializer.Deserialize<T>(jsonString);
+            New(obj);
+            Save();
+            return (true);
+        }
+        else {
+            return (false);
+        }
     }
 }
