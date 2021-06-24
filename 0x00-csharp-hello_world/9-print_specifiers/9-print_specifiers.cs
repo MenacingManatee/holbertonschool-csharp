@@ -2,6 +2,7 @@
 
 class Program
 {
+	/// Uses different formatting methods to write to the console
 	static void Main(string[] args)
 	{
 		double percent = .7553;

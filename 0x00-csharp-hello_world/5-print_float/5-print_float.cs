@@ -2,6 +2,7 @@
 
 class Program
 {
+	/// Writes a float to the console using string formatting and precision
 	static void Main(string[] args)
 	{
 		float number = 3.14159f;

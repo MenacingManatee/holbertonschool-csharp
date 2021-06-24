@@ -2,6 +2,7 @@
 
 class Program
 {
+	/// Writes a string to the console using concatenation
 	static void Main(string[] args)
 	{
 		string str1 = "Holberton";

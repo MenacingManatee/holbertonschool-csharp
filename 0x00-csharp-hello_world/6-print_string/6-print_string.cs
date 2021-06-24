@@ -2,6 +2,7 @@
 
 class Program
 {
+	/// Writes a prebuilt string to the console using substrings
 	static void Main(string[] args)
 	{
 		string str = "Holberton School";
