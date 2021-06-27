@@ -4,6 +4,7 @@ namespace _4_print_hexa
 {
     class Program
     {
+        /// Writes 0-98 in hexadecimal
         static void Main(string[] args)
         {
             int i = 0;

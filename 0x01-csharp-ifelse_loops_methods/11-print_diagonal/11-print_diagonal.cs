@@ -2,6 +2,7 @@
 
 class Line
 {
+    /// Prints a diagonal line to the console of input length
     public static void PrintDiagonal(int length)
     {
         int i;

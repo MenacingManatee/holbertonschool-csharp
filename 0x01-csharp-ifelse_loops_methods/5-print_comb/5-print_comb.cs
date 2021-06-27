@@ -4,6 +4,7 @@ namespace _5_print_comb
 {
     class Program
     {
+        /// Writes 0-99, separated by ', '
         static void Main(string[] args)
         {
             int i = 0;

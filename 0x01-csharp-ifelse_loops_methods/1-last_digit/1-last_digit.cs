@@ -2,6 +2,7 @@
 
 class Program
 {
+    /// Generates a random number, then pulls its last digit
     static void Main(string[] args)
     {
         Random rndm = new Random();

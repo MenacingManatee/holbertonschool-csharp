@@ -1,7 +1,9 @@
 ﻿using System;
 
+/// Line class
 class Line
 {
+    /// Prints an input number of the character '_'
     public static void PrintLine(int length)
     {
         int i;

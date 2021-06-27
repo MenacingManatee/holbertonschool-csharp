@@ -4,6 +4,7 @@ namespace _2_print_alphabet
 {
     class Program
     {
+        /// Writes the alphabet, converting int to chars
         static void Main(string[] args)
         {
             int i = (int)'a';

@@ -4,6 +4,7 @@ namespace _3_print_alphabt
 {
     class Program
     {
+        /// Writes the alphabet, skipping 'q' and 'e'
         static void Main(string[] args)
         {
             int i = (int)'a';

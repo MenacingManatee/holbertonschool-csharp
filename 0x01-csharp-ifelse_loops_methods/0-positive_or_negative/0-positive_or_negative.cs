@@ -2,6 +2,7 @@
 
 class Program
 {
+    /// Generates a random number, then determines its sign
     static void Main(string[] args)
     {
         Random rndm = new Random();

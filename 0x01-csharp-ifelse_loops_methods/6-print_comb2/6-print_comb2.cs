@@ -4,6 +4,7 @@ namespace _6_print_comb2
 {
     class Program
     {
+        /// Writes '01' through '89', repeating no combination of digits
         static void Main(string[] args)
         {
             int i = 0;

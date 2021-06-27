@@ -4,6 +4,7 @@ namespace _12_fizzbuzz
 {
     class Program
     {
+        /// Prints 1-100, printing 'Fizz' if divisible by 3 and 'Buzz' if divisible by 5
         static void Main(string[] args)
         {
             int i = 1;
