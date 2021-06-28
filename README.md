@@ -26,3 +26,6 @@ All standalone C# projects written as part of my education at Holberton.
 |0x0C C# Delegates, Events|Iteratively updates a single file to use multiple delegates|
 |0x0D C# Text Based Interface|An inventory management class that stores objects as JSON, and includes a console app to create, edit, display, and delete the objects|
 |Image Processor|Bonus project, console application that processes images to convert to the inverse, grayscale, black/white, and a thumbnail|
+
+### About Me
+I am a student software engineer, currently studying at Holberton School. My interests are in VR and game development, and I'd like to create my own VR game company within the next 10 years. See more about me on my [LinkedIn](https://www.linkedin.com/in/brett-davis-132916155/)
